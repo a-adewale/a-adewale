@@ -8,7 +8,7 @@
 
 ---
 
-![JS Expert](https://shields.io)
+![JavaScript](https://shields.io)
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python)
 ![VB.NET](https://img.shields.io/badge/VB.NET-Expert-512BD4?style=for-the-badge)
 
