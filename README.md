@@ -1,45 +1,95 @@
-<!-- 1. STATUS BADGES -->
 <div align="center">
 
-![Build Status](https://shields.io)
-![License](https://shields.io)
-![Version](https://shields.io)
+# 🚀 Adewale ADEOGUN | toucheCodes
 
-<!-- 2. TECH STACK BADGES (Optional: Swap these for your actual languages/frameworks) -->
-🚀 **Tech Stack:** 
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
+### Software Engineer • Automation Expert • AI Engineer • FullStack Engineer
 
-<h1 align="center">Project Title</h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=1200&lines=Technical+Founder;The+Right+Conversations+Refine+Systems+and+Strengthen+Architecture" />
 
-<p align="center">
-  A short, punchy sentence explaining exactly what this awesome project does.
-</p>
+---
+
+![JS Expert](https://shields.io)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python)
+![VB.NET](https://img.shields.io/badge/VB.NET-Expert-512BD4?style=for-the-badge)
+
+![UiPath](https://img.shields.io/badge/UiPath-Expert-orange?style=for-the-badge)
+![BluePrism](https://img.shields.io/badge/BluePrism-Expert-blue?style=for-the-badge)
+![PowerAutomate](https://img.shields.io/badge/Power_Automate-Expert-742774?style=for-the-badge)
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-MasterOfLogic1-181717?style=for-the-badge&logo=github)](https://github.com/MasterOfLogic1)
+
+[![YouTube](https://img.shields.io/badge/YouTube-MasterOfLogic-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@masteroflogic)
+
+[![Community](https://img.shields.io/badge/AIEV-Community-00b894?style=for-the-badge)](https://rockae.com/community/aiev)
+
 </div>
 
 ---
 
-## 🛠️ Features
-- **Feature 1:** Describe a core capability of your tool.
-- **Feature 2:** Highlight something cool or unique it does.
+# 💡 About Me
 
-## 🚀 Quick Start
+- 🏗 Building intelligent systems with software, automation and AI  
+- 🤖 Enterprise automation expert across UiPath, Blue Prism and Power Automate  
+- 🧠 AI Engineer building LLM-powered systems  
+- 🚀 Building **Rockae**  
+- 🎥 Sharing knowledge on **MasterOfLogic** YouTube  
+- 🌍 Growing the **AIEV Community** around AI and innovation  
 
-### Prerequisites
-Make sure you have [Node.js / Python / etc.] installed.
+---
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com
+# ⚙️ Core Expertise
 
-# Navigate to the directory
-cd your-repo-name
+```text
+C#            Expert
+Python        Expert
+VB.NET        Expert
 
-# Install dependencies
-npm install  # or pip install -r requirements.txt
+UiPath        Expert
+Blue Prism    Expert
+Power Automate Expert
+
+AI Engineering
+System Design
+Enterprise Automation
 ```
 
-## 📝 License
-This project is licensed under the MIT License.
+---
+
+# 🏆 Impact
+
+✨ 20+ Enterprise Automation Bots  
+✨ 1K+ NuGet Downloads  
+✨ Reusable Developer Libraries  
+✨ Mentored Developers  
+✨ Building Rockae  
+✨ Growing AIEV Community  
+
+---
+
+# 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MasterOfLogic1&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterOfLogic1&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🔥 Current Focus
+
+- AI Agents  
+- LLM Applications  
+- Distributed Compute  
+- Cloud AI IDEs  
+- Advanced Automation Architecture  
+
+---
+
+<div align="center">
+
+## ⚡ Philosophy
+
+### *Build systems that create leverage.*
+
+</div>
