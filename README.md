@@ -4,7 +4,7 @@
 
 ### Software Engineer • Automation Expert • AI Engineer • FullStack Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=1200&lines=Technical+Founder;The+Right+Conversations+Refine+Systems+and+Strengthen+Architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=1200&lines=FullStack Developer +Founder;The+Right+Conversations+Refine+Systems+and+Strengthen+Architecture" />
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-MasterOfLogic1-181717?style=for-the-badge&logo=github)](https://github.com/MasterOfLogic1)
+[![GitHub](https://img.shields.io/badge/GitHub-MasterOfLogic1-181717?style=for-the-badge&logo=github)](https://github.com/a-adewale)
 
 [![YouTube](https://img.shields.io/badge/YouTube-MasterOfLogic-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@masteroflogic)
 
